@@ -1,0 +1,6 @@
+require("issacc.remap")
+require("issacc.settings")
+require("issacc.lazy")
+require("issacc.cmp")
+require("issacc.telescope")
+require("issacc.builder")
